@@ -7,7 +7,7 @@
   }
   
   .wrapper  div {
-    border: 2px solid rgb(163, 163, 163);
+    border: 2px  dashed rgb(163, 163, 163);
     border-radius: 5px;
     
     padding: 1em;
